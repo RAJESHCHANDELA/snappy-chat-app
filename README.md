@@ -1,2 +1,2 @@
-# talks
-real time chat app having ai integration 
+# new-chat
+# new-chat
